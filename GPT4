@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Yi Hao - Personal Page</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f4f8;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            width: 80%;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        header {
+            text-align: center;
+            padding: 50px 0;
+        }
+        header h1 {
+            font-size: 3em;
+            color: #007acc;
+        }
+        .content {
+            background: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        .content h2 {
+            color: #007acc;
+        }
+        .contact-info {
+            margin-top: 20px;
+        }
+        .contact-info p {
+            margin: 5px 0;
+        }
+        footer {
+            text-align: center;
+            padding: 20px 0;
+            background-color: #007acc;
+            color: #fff;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Yi Hao</h1>
+        <p>Online Retail & Law Student</p>
+    </header>
+    <div class="container">
+        <div class="content">
+            <h2>About Me</h2>
+            <p>Hello! I'm Yi Hao, currently studying law while working in online retail. I have a passion for e-commerce and am dedicated to combining my legal knowledge with my business experience to innovate and excel in the industry.</p>
+            
+            <div class="contact-info">
+                <h2>Contact Information</h2>
+                <p><strong>WhatsApp:</strong> 018-2700760</p>
+                <p><strong>Instagram:</strong> <a href="https://www.instagram.com/yihao__o" target="_blank">yihao__o</a></p>
+                <p><strong>Facebook:</strong> <a href="https://www.facebook.com/YiHaoII" target="_blank">Yi Hao II</a></p>
+            </div>
+        </div>
+    </div>
+    <footer>
+        <p>&copy; 2024 Yi Hao. All rights reserved.</p>
+    </footer>
+</body>
+</html>
